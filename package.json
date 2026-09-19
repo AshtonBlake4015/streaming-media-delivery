@@ -1,0 +1,1 @@
+{"name":"streaming-media-delivery","version":"1.0.0","private":true,"type":"module","scripts":{"start":"tsx src/media_stream_service.ts","test":"tsx src/media_stream_service.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"openai":"^4.80.0","zod":"^3.24.0"},"devDependencies":{"tsx":"^4.19.0","typescript":"^5.7.0"}}
